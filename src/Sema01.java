@@ -1,4 +1,5 @@
-public class App {
+
+public class Sema01 {
 
     public static class BankAccount {
         String accountNumber;
