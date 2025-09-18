@@ -9,7 +9,7 @@ public class Main {
 
         empleado1.aumentarSalario(500000.0);
 
-        System.out.println("Información del empleado desde Main.java:");
+        System.out.println("Información del empleado:");
         empleado1.mostrarEmpleado();
     }
 }
