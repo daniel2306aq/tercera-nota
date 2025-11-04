@@ -1,4 +1,4 @@
-package Unidad01.Semana02;
+package Unidad01;
 
 public class Producto {
     public static class newTienda {
